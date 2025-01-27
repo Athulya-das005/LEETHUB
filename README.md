@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Athulya-das005/LEETHUB/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Athulya-das005/LEETHUB/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Athulya-das005/LEETHUB/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
