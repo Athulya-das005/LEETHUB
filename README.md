@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Athulya-das005/LEETHUB/tree/master/0009-palindrome-number) |
+| [2491-smallest-even-multiple](https://github.com/Athulya-das005/LEETHUB/tree/master/2491-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Athulya-das005/LEETHUB/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athulya-das005/LEETHUB/tree/master/1019-squares-of-a-sorted-array) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Athulya-das005/LEETHUB/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
