@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Athulya-das005/LEETHUB/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Athulya-das005/LEETHUB/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Athulya-das005/LEETHUB/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Athulya-das005/LEETHUB/tree/master/2491-smallest-even-multiple) |
 ## String
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Athulya-das005/LEETHUB/tree/master/0162-find-peak-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Athulya-das005/LEETHUB/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
