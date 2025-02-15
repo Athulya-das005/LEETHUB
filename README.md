@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Athulya-das005/LEETHUB/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Athulya-das005/LEETHUB/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Athulya-das005/LEETHUB/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/Athulya-das005/LEETHUB/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Athulya-das005/LEETHUB/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athulya-das005/LEETHUB/tree/master/1019-squares-of-a-sorted-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Athulya-das005/LEETHUB/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Athulya-das005/LEETHUB/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Athulya-das005/LEETHUB/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Athulya-das005/LEETHUB/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Athulya-das005/LEETHUB/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Athulya-das005/LEETHUB/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Athulya-das005/LEETHUB/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athulya-das005/LEETHUB/tree/master/1019-squares-of-a-sorted-array) |
 ## Number Theory
