@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Athulya-das005/LEETHUB/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Athulya-das005/LEETHUB/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Athulya-das005/LEETHUB/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Athulya-das005/LEETHUB/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Athulya-das005/LEETHUB/tree/master/0371-sum-of-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Athulya-das005/LEETHUB/tree/master/2491-smallest-even-multiple) |
 ## String
