@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Athulya-das005/LEETHUB/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Athulya-das005/LEETHUB/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Athulya-das005/LEETHUB/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Athulya-das005/LEETHUB/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Athulya-das005/LEETHUB/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Athulya-das005/LEETHUB/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Athulya-das005/LEETHUB/tree/master/0287-find-the-duplicate-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Athulya-das005/LEETHUB/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Athulya-das005/LEETHUB/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Athulya-das005/LEETHUB/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Athulya-das005/LEETHUB/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athulya-das005/LEETHUB/tree/master/1019-squares-of-a-sorted-array) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Athulya-das005/LEETHUB/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Athulya-das005/LEETHUB/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Athulya-das005/LEETHUB/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Athulya-das005/LEETHUB/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Athulya-das005/LEETHUB/tree/master/1908-recyclable-and-low-fat-products) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Athulya-das005/LEETHUB/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Athulya-das005/LEETHUB/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
