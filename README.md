@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Athulya-das005/LEETHUB/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Athulya-das005/LEETHUB/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athulya-das005/LEETHUB/tree/master/1019-squares-of-a-sorted-array) |
+| [1651-shuffle-string](https://github.com/Athulya-das005/LEETHUB/tree/master/1651-shuffle-string) |
 | [1833-find-the-highest-altitude](https://github.com/Athulya-das005/LEETHUB/tree/master/1833-find-the-highest-altitude) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Athulya-das005/LEETHUB/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Athulya-das005/LEETHUB/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Athulya-das005/LEETHUB/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/Athulya-das005/LEETHUB/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/Athulya-das005/LEETHUB/tree/master/1651-shuffle-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Athulya-das005/LEETHUB/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## String Matching
 |  |
