@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Athulya-das005/LEETHUB/tree/master/1651-shuffle-string) |
 | [1833-find-the-highest-altitude](https://github.com/Athulya-das005/LEETHUB/tree/master/1833-find-the-highest-altitude) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Athulya-das005/LEETHUB/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3778-transform-array-by-parity](https://github.com/Athulya-das005/LEETHUB/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Athulya-das005/LEETHUB/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Athulya-das005/LEETHUB/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athulya-das005/LEETHUB/tree/master/1019-squares-of-a-sorted-array) |
+| [3778-transform-array-by-parity](https://github.com/Athulya-das005/LEETHUB/tree/master/3778-transform-array-by-parity) |
 ## Number Theory
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Athulya-das005/LEETHUB/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/Athulya-das005/LEETHUB/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
