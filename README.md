@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Athulya-das005/LEETHUB/tree/master/1651-shuffle-string) |
 | [1833-find-the-highest-altitude](https://github.com/Athulya-das005/LEETHUB/tree/master/1833-find-the-highest-altitude) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Athulya-das005/LEETHUB/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Athulya-das005/LEETHUB/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/Athulya-das005/LEETHUB/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Athulya-das005/LEETHUB/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Athulya-das005/LEETHUB/tree/master/0287-find-the-duplicate-number) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Athulya-das005/LEETHUB/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -152,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Athulya-das005/LEETHUB/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/Athulya-das005/LEETHUB/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
