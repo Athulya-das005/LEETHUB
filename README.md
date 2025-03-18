@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Athulya-das005/LEETHUB/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Athulya-das005/LEETHUB/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Athulya-das005/LEETHUB/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Athulya-das005/LEETHUB/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Athulya-das005/LEETHUB/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Athulya-das005/LEETHUB/tree/master/0231-power-of-two) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Athulya-das005/LEETHUB/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Athulya-das005/LEETHUB/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Athulya-das005/LEETHUB/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Athulya-das005/LEETHUB/tree/master/0371-sum-of-two-integers) |
