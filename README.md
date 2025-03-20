@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Athulya-das005/LEETHUB/tree/master/1833-find-the-highest-altitude) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Athulya-das005/LEETHUB/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Athulya-das005/LEETHUB/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3194-find-words-containing-character](https://github.com/Athulya-das005/LEETHUB/tree/master/3194-find-words-containing-character) |
 | [3778-transform-array-by-parity](https://github.com/Athulya-das005/LEETHUB/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Athulya-das005/LEETHUB/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Athulya-das005/LEETHUB/tree/master/1651-shuffle-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Athulya-das005/LEETHUB/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3194-find-words-containing-character](https://github.com/Athulya-das005/LEETHUB/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Athulya-das005/LEETHUB/tree/master/3379-score-of-a-string) |
 | [3709-find-special-substring-of-length-k](https://github.com/Athulya-das005/LEETHUB/tree/master/3709-find-special-substring-of-length-k) |
 ## String Matching
