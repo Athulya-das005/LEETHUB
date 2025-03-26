@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/Athulya-das005/LEETHUB/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Athulya-das005/LEETHUB/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/Athulya-das005/LEETHUB/tree/master/2556-convert-the-temperature) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Athulya-das005/LEETHUB/tree/master/2812-find-the-maximum-achievable-number) |
 ## String
 |  |
 | ------- |
