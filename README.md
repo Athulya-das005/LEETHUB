@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Athulya-das005/LEETHUB/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Athulya-das005/LEETHUB/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Athulya-das005/LEETHUB/tree/master/0242-valid-anagram) |
+| [0782-jewels-and-stones](https://github.com/Athulya-das005/LEETHUB/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Athulya-das005/LEETHUB/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Athulya-das005/LEETHUB/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Athulya-das005/LEETHUB/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/Athulya-das005/LEETHUB/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Athulya-das005/LEETHUB/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/Athulya-das005/LEETHUB/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Athulya-das005/LEETHUB/tree/master/1651-shuffle-string) |
