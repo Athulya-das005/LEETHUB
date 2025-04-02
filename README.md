@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Athulya-das005/LEETHUB/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Athulya-das005/LEETHUB/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Athulya-das005/LEETHUB/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Athulya-das005/LEETHUB/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Athulya-das005/LEETHUB/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Athulya-das005/LEETHUB/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Athulya-das005/LEETHUB/tree/master/0263-ugly-number) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Athulya-das005/LEETHUB/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Athulya-das005/LEETHUB/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Athulya-das005/LEETHUB/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Athulya-das005/LEETHUB/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
