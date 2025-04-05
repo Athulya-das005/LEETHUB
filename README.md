@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Athulya-das005/LEETHUB/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Athulya-das005/LEETHUB/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Athulya-das005/LEETHUB/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Athulya-das005/LEETHUB/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Athulya-das005/LEETHUB/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Athulya-das005/LEETHUB/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Athulya-das005/LEETHUB/tree/master/0283-move-zeroes) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Athulya-das005/LEETHUB/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Athulya-das005/LEETHUB/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Athulya-das005/LEETHUB/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Athulya-das005/LEETHUB/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Athulya-das005/LEETHUB/tree/master/0782-jewels-and-stones) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Athulya-das005/LEETHUB/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Athulya-das005/LEETHUB/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Athulya-das005/LEETHUB/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Athulya-das005/LEETHUB/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Athulya-das005/LEETHUB/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Athulya-das005/LEETHUB/tree/master/0242-valid-anagram) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Athulya-das005/LEETHUB/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Athulya-das005/LEETHUB/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Athulya-das005/LEETHUB/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Athulya-das005/LEETHUB/tree/master/0169-majority-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Athulya-das005/LEETHUB/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/Athulya-das005/LEETHUB/tree/master/3778-transform-array-by-parity) |
 ## Brainteaser
