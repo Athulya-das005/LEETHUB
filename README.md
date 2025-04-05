@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Athulya-das005/LEETHUB/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Athulya-das005/LEETHUB/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Athulya-das005/LEETHUB/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/Athulya-das005/LEETHUB/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Athulya-das005/LEETHUB/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Athulya-das005/LEETHUB/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Athulya-das005/LEETHUB/tree/master/0263-ugly-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Athulya-das005/LEETHUB/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Athulya-das005/LEETHUB/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Athulya-das005/LEETHUB/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Athulya-das005/LEETHUB/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Athulya-das005/LEETHUB/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/Athulya-das005/LEETHUB/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Athulya-das005/LEETHUB/tree/master/0557-reverse-words-in-a-string-iii) |
