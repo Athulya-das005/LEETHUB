@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Athulya-das005/LEETHUB/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Athulya-das005/LEETHUB/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Athulya-das005/LEETHUB/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/Athulya-das005/LEETHUB/tree/master/1153-product-sales-analysis-i) |
